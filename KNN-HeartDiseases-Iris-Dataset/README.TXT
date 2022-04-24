@@ -1,5 +1,5 @@
-In the uploaded files CM 1-7 we have applied KNN on Heart Diseases and Iris Dataset.
-Each file explains the following setps:
+This project includes appplication of KNN on Heart Diseases and Iris Dataset.
+Each file contains the following steps:
 CM1 - Feature selection
 CM2 - Mean/Skew/Kurt of data
 CM3 - Outliers
